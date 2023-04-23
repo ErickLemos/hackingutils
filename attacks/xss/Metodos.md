@@ -8,4 +8,4 @@ todas os usuarios da aplicação são atacados.
 
 - Dom-based XSS
 não é enviado, apenas localmente, do cliente 
-para o cliente.
+para o cliente. Interagindo com o DOM.
