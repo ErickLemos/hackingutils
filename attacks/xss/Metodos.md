@@ -6,3 +6,6 @@ para a vitima por links maliciosos
 quando o ataque é armazenado na aplicação,
 todas os usuarios da aplicação são atacados.
 
+- Dom-based XSS
+não é enviado, apenas localmente, do cliente 
+para o cliente.
